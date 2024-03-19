@@ -1,0 +1,58 @@
+.navbar-card {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  justify-content: space-between;
+  width: 90%;
+}
+.logo {
+  height: 60px;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.hamburger-icon {
+  font-size: 30px;
+}
+.nav-link {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.popup-content {
+  width: 100%;
+  height: 100%;
+  padding: 30px;
+}
+.pop-icon {
+  font-size: 25px;
+  color: black;
+  margin-right: 8px;
+}
+.pop-text {
+  color: black;
+  font-family: 'Roboto';
+  margin: 0px;
+}
+.close-card {
+  display: flex;
+  justify-content: flex-end;
+}
+.pop-close-btn {
+  align-self: flex-start;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+.abt-hm-pop-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  list-style: none;
+  padding: 0px;
+}
